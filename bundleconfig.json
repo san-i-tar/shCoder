@@ -1,0 +1,13 @@
+[
+  {
+    "outputFileName": "wwwroot/js/site.js",
+    "inputFiles": [
+      "obj/js/**/*.js"
+    ],
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    "sourceMap": false
+  }
+]

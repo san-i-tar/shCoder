@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "@types/react-redux@7.1.16",
+      "destination": "Scripts/types/types/react-redux/",
+      "files": [
+        "index.d.ts"
+      ]
+    },
+    {
+      "library": "@types/redux-devtools@3.0.43",
+      "destination": "Scripts/types/types/redux-devtools/",
+      "files": [
+        "index.d.ts"
+      ]
+    },
+    {
+      "library": "@types/redux-storage@4.0.11",
+      "destination": "Scripts/types/types/redux-storage/",
+      "files": [
+        "index.d.ts"
+      ]
+    },
+    {
+      "library": "formik@2.2.6",
+      "destination": "Scripts/types/formik/",
+      "files": [
+        "dist/connect.d.ts",
+        "dist/ErrorMessage.d.ts",
+        "dist/FastField.d.ts",
+        "dist/Field.d.ts",
+        "dist/FieldArray.d.ts",
+        "dist/Form.d.ts",
+        "dist/formik.cjs.development.js",
+        "dist/formik.cjs.development.js.map",
+        "dist/formik.cjs.production.min.js",
+        "dist/formik.cjs.production.min.js.map",
+        "dist/Formik.d.ts",
+        "dist/formik.esm.js",
+        "dist/formik.esm.js.map",
+        "dist/FormikContext.d.ts",
+        "dist/index.d.ts",
+        "dist/index.js",
+        "dist/types.d.ts",
+        "dist/utils.d.ts",
+        "dist/withFormik.d.ts"
+      ]
+    }
+  ]
+}
